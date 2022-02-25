@@ -1,0 +1,441 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Right Honourable Robert, Earle of Warwick, Lord High Admirall of England, and of all the plantions [sic] belonging to any His Majesties, the King of Englands subjects upon the coasts of America, Governour of the Company of London for the plantation, of the Summer Islands, and of the said company to the colony and plantation there : as the happinesse of a Christian people is ever best advanced, by their constant progresse in the waies of peace and holiness.</title>
+            <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67702</idno>
+            <idno type="STC">Wing W994</idno>
+            <idno type="STC">ESTC R212401</idno>
+            <idno type="EEBO-CITATION">18198176</idno>
+            <idno type="OCLC">ocm 18198176</idno>
+            <idno type="VID">107022</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67702)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107022)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1135:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Right Honourable Robert, Earle of Warwick, Lord High Admirall of England, and of all the plantions [sic] belonging to any His Majesties, the King of Englands subjects upon the coasts of America, Governour of the Company of London for the plantation, of the Summer Islands, and of the said company to the colony and plantation there : as the happinesse of a Christian people is ever best advanced, by their constant progresse in the waies of peace and holiness.</title>
+                  <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643/4]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Great Britain --  Colonies --  America.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:107022:1"/>
+            <pb facs="tcp:107022:1" rendition="simple:additions"/>
+            <head>A declaration of the Right Honourable RO<g ref="char:EOLhyphen"/>BERT, Earle of Warwick, Lord High Admirall of ENGLAND, and of all the Plantions belonging to any his Majeſties, the King of ENGLANDS Subjects up<g ref="char:EOLhyphen"/>on the Coaſts of AMERICA, Governour of the Com<g ref="char:EOLhyphen"/>pany of LONDON for the Plantation, of the Summer ISLANDS; And of the ſaid Company: <hi>To the Colony and Plantation there</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>S the Happineſſe of a Chriſtian People is ever beſt advan<g ref="char:EOLhyphen"/>ced, by their conſtant Progreſſe in the waies of Peace and Holineſſe: So are they in nothing more miſerable themſelves, and offenſive to others, then in their un<g ref="char:EOLhyphen"/>charitable Contentions, and Diſcords interrupting the ſame. We have therefore thought meet, out of our moſt affectionate deſires of your Welfare, to make this en<g ref="char:EOLhyphen"/>ſuing <hi>Declaration;</hi> wherein, firſt, and above all things, we do, with all earn<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>neſſe, beſpeake all, and every one, That in their ſeverall Places and Conditions, they will endeavour, by fol<g ref="char:EOLhyphen"/>lowing the Truth in Love, to advance the Glory of God, and of our Lord and Saviour Jeſus Chriſt.</p>
+            <p>We intend not to anticipate, or prevent the Honourable Houſes of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> in any their Determinations, in matters Eccleſiaſticall, or Civill; but with Prayer, and Patience attend that Reſolution, which it ſhall pleaſe the Lord to direct them unto. And whileſt we thus waite, we deſire, and hope that you will doe the like.</p>
+            <p>What the thoughts of the <hi>Parliament</hi> have been, and are, for all the Plan<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tions upon the Coaſts of <hi>AMERICA,</hi> The <hi>Ordinance</hi> of <hi>Parliament</hi> there<g ref="char:EOLhyphen"/>with ſent, will abundantly declare; And what our endeavours are for your hap<g ref="char:EOLhyphen"/>pineſſe, this writing is a Witneſſe; wherein we ſhall expreſſe our Deſires in ſome particulars.</p>
+            <p>We have thought meet, for the preſent, to continue the Government, as now it ſtands, by Commiſſion, together with all Officers, and Commanders former<g ref="char:EOLhyphen"/>ly choſen by us, untill we ſhall give further direction therein; as to prevent that
+<pb facs="tcp:107022:2"/> diſturbance which an alteration might occaſion; ſo for the better moderation, and improvement of Authority, to encourage Piety, Goodneſſe, and Induſtry, and to ſuppreſſe Prophaneneſſe, wickedneſſe, and idleneſſe in all ſorts of People, and places of the Colony.</p>
+            <p>We thinke it not meet, for the preſent to give any intimation, either to Mi<g ref="char:EOLhyphen"/>niſters or People, touching the the publike Adminiſtration of Gods Worſhip, being in expectance of that <hi>Directory,</hi> which the <hi>Parliament,</hi> with the advice, of the <hi>Aſſembly of Divines,</hi> ſhall hold forth according to ſacred Scriptures. In the meane time, we deſire you would <hi>follow Peace with all men, and Holineſſe, without which no man ſhall ſee the Lord; looking diligently, leſt any man faile of the grace of God, leſt any root of Bitterneſſe ſpringing up trouble you, and thereby many be defiled.</hi>
+            </p>
+            <p>As a good meanes to promote Pietie in the minds of all, and to prevent Pro<g ref="char:EOLhyphen"/>phaneſſe: we doe, in a ſpeciall manner, recommend unto your beſt care, the obſervance of the <hi>Lords day;</hi> whereon, as wee hope the Miniſters will ſo im<g ref="char:EOLhyphen"/>prove their Labours at every <hi>Church</hi> within their ſeverall <hi>Tribes,</hi> that all the peo<g ref="char:EOLhyphen"/>ple may have the beſt conveniency to heare the Word of God Preached: So we alſo truſt, that Maſters of Families will be carefull by Catechizing, and other<g ref="char:EOLhyphen"/>wiſe, ſo to inſtruct their Children, and Servants, that all may come to the know<g ref="char:EOLhyphen"/>ledge of God, and of our Lord and Saviour Jeſus Chriſt, whom rightly to know is life eternall. And that both Magiſtrates, and Maſters of Families will reſtraine them under their Commands, from careleſſe and ſinfull expence of that precious time, in ſloth, idleneſſe, or any way to Gods diſhonour, and their own hurt. For your better direction herein, we herewith ſend you an <hi>Ordinance</hi> of <hi>Parliament.</hi>
+            </p>
+            <p>The Company is very ſenſibly affected with your want of a Miniſter: And that thereby any particular perſon, or part of the Colony ſhould ſuffer a Famine of the Word of God, is very grievous unto us. We intend, God willing, by the very firſt opportunity, to ſupply your want herein. In the meane while, we earneſtly deſire the Miniſters would double th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir diligence in teaching the knowledge of God through the Land; knowing, that as their Labour therein cannot be in vain in the Lord; So ſhall they thereby exceedingly indeare them<g ref="char:EOLhyphen"/>ſelves into the good Affections of the Company, who deſire nothing ſo much as the Salvation of your ſoules.</p>
+            <p>For Counſellors, Captains, and all other Officers, as we require all due ho<g ref="char:EOLhyphen"/>nour, and reſpect to be given them: So, as a meanes thereof, we deſire they may be as a Sanctuary, and City of refuge to all ſuch as love the Lord Jeſus Chriſt in ſincerity; improving all their Power, and Authority, as for the ſe<g ref="char:EOLhyphen"/>curing of the Iſlands, preſerving of Peace, and promoting the power of Godli<g ref="char:EOLhyphen"/>neſſe in all places, and Perſons; ſo, for ſuppreſſing of all manner of ſinne and wic<g ref="char:EOLhyphen"/>kedneſſe. And, for that Tipling Houſes, Idleneſſe, and ill Company, are thoſe Anvils, whereon Satan, with our owne Luſts, Forgeth out all manner of ſinne and wickedneſſe; We deſire great care be taken to prevent the ſame: That ſo, by the Officers faithfull performance of their Duties in their ſeverall pla<g ref="char:EOLhyphen"/>ces, The people being kept in Peace and Amitie, The multitude of Indict<g ref="char:EOLhyphen"/>ments
+<pb facs="tcp:107022:2"/> and P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſentments, commonly brought to the publi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Aſſize<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, may be pre<g ref="char:EOLhyphen"/>vented. And though we would not encourage Appeales, which proofe ſo trou<g ref="char:EOLhyphen"/>bleſome, and chargeble to them that make them: Yet in that caſe, we ſhall expect to receive from the publike Officers what ever may cleare the buſineſſe to us; who, by Gods Grace, ſhall proceed according to the merit of the <hi>Cauſe,</hi> without reſpect of Perſons.</p>
+            <p>In all Cauſes wherein Oathes are Adminiſtred, wee deſire great care may bee uſed to informe both the Jury, and Witneſſes, of the horrible ſinne of Perjurie, with the dreadfull ſeverity of Gods puniſhments thereupon, That ſo they may not adventure to ſweare, but in Truth, Judgement, and Righteouſneſſe.</p>
+            <p>We had good hope that ere now, by the ſmall quantity, meane condi<g ref="char:EOLhyphen"/>tion, and ſhort returnes you have found of <hi>Tobacco,</hi> you would have beene put upon that diligence and induſtry, which might have introduced ſome more pro<g ref="char:EOLhyphen"/>fitable and ſtaple Commodity: whereunto, as we formerly have, ſo we are ſtill ready to affoord all poſſible encouragement, and aſſiſtance. We ſhall now de<g ref="char:EOLhyphen"/>ſire all thoſe that have made any eſſayes therein, with ſuch others as have af<g ref="char:EOLhyphen"/>fection thereunto, That they would improove their beſt Obſervations, and Ex<g ref="char:EOLhyphen"/>perience, to finde out ſomewhat which may be of more benefit to you, and ſa<g ref="char:EOLhyphen"/>tisfaction to us; which, as we ſhall accept as an evidence of Affection to the Publike Good; So, we ſhall conſider of ſome way for compenſation, accor<g ref="char:EOLhyphen"/>ding to their charge, and endeavours therein.</p>
+            <p>We have juſt cauſe to complaine of the wrong we have ſuffered in the Caſe of <hi>Wrecks;</hi> not only by more private perſons, but by publike Officers. And, truely, we are much troubled to finde ſo great injuſtice among you, as might occaſion us to revoke that Law, which, in great favour, allowes a Moitie to the Reco<g ref="char:EOLhyphen"/>verers. We ſhall expect, and hope for better Accompts then yet we have re<g ref="char:EOLhyphen"/>ceived, both of that which lately happened, and what hereafter may.</p>
+            <p>We have ſeriouſly conſidered of the want of Linnen Cloth, and other ne<g ref="char:EOLhyphen"/>ceſſaries, by the publicke Letters, intimated to be in the Colony; which ſeems the more ſtrange unto us, when we heare the Adventurers declare, that of great Proportions of Goods which they have ſent to you, they have received very ſhort Returnes. If there be a ſcarcity, we conceive it ariſeth from your ſelves, <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>eſt Factours are ſo unfaithfull in making returnes; private Perſons ſo back<g ref="char:EOLhyphen"/>w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in paying their dues; publike Officers ſo remiſſe in executing Juſtice here<g ref="char:EOLhyphen"/>in; and all or moſt ſo deſirous to trade rather with Strangers then with the Com<g ref="char:EOLhyphen"/>pany, which appeares by keeping their <hi>Tobaccoes</hi> untill our Ship be come away; whereby, both the Merchant is diſcouraged from ſending, and the Company prevented of the duties. If any complain, that the Adventurers, or their Fa<g ref="char:EOLhyphen"/>ctours doe overpriſe their Commodities, we feare your ſlow payments are acceſ<g ref="char:EOLhyphen"/>ſary to that errour, which we are ſo farre from excuſing; that, when you have taken order, that ſpeedy Returns be made, we ſhall endeavour, what is in our power, that no oppreſſion be uſed. And, becauſe we would remove all colours of complaint, we have deſired particular Members of our Company, that they will, at preſent, ſend ſuch Proportions as may ſupply your occaſions; We hope they ſhall receive ſuch Returnes by this Ship, as may both manifeſt your good
+<pb facs="tcp:107022:3"/> Affection, and encourage their future <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> others.</p>
+            <p>We are not unmindful of your deſires for a free Trade, which you have both in<g ref="char:EOLhyphen"/>timated to us, and ſought for from the Governours with you: But the truth, is for the preſent, the Conſtitution of the Company, the Obligations upon them, and the propriety of the Owners are ſuch, as be inconſiſtent with that freedome of Trade which is required.</p>
+            <p>When, upon a ſerious conſideration of all particulars, with a diſ-ingaged re<g ref="char:EOLhyphen"/>ſpect to the common good, it ſhall appeare, that what is required, is according to Right and Juſtice, and ſuch as the Company can in faithfulneſſe aſſent unto, you may reſt aſſured, That we ſhall be moſt ready to manifeſt our Affection to any Liberty or Priviledge, which is for the good of the Colony: In the meane time whilſt we concurre in allowing freedome of Trade for ſuch Proportions of Cattell, Hogs, Fruits, and other Proviſions as may be very well ſpared, without dammage to the Colony, danger of a Famine, prejudice to the poorer ſort, or preventing the Owners of their dues; and, untill farther order hence, onely reſtraine Trade for <hi>Tobacco,</hi> which (as neceſſitie compels) we doe hereby abſo<g ref="char:EOLhyphen"/>lutely prohibite; That ſo, both we may receive our Rents; and by the duties thereupon, the Miniſters may have their exhibitions, Ammunition, and other ne<g ref="char:EOLhyphen"/>ceſſaries for the ſafety of the Ilands, ſatisfaction of the Officers there, and the charge of the Company be provided for, we hope no man will finde juſt cauſe of Offence.</p>
+            <p>But however, we deſire to approve our ſelves to every mans conſcience in the ſight of God, and ſo to carry on al matters, as that we may be free from each mans want, and from neglect of any thing, which is in our power to procure, for the good and happineſſe of the Colony; whereto, as we are in neereneſſe of relation, ſo we deſire to manifeſt our good will and affection in every kinde of way.</p>
+            <p>We ſhall conclude with that of the Apoſtle, <hi>Finally, Brethren, Fare yee well, be perfect, be of good comfort, be of one minde, live in Peace; and the God of Love and Peace ſhall be with you.</hi>
+            </p>
+            <closer>
+               <dateline>Given under the Hands, and common Seale of the Governour and Company at a generall Court, <date>the 23 of <hi>October,</hi> 1644.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Warwicke</hi> Governour.</item>
+                     <item>
+                        <hi>Wil: Say</hi> and <hi>Seale.</hi>
+                     </item>
+                     <item>
+                        <hi>Arthur Wodenoth,</hi> Deputy.</item>
+                     <item>
+                        <hi>Thomas Allen,</hi> Treſurer.</item>
+                     <item>
+                        <hi>Perien Trot,</hi> Husband,</item>
+                     <item>
+                        <hi>Gilbert Gerard.</hi>
+                     </item>
+                     <item>
+                        <hi>I. Danvers.</hi>
+                     </item>
+                     <item>
+                        <hi>Ben. Rudyerd.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Knightley.</hi>
+                     </item>
+                     <item>
+                        <hi>
+                           <gap reason="illegible" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Holland.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Heydon.</hi>
+                     </item>
+                     <item>
+                        <hi>Anthony Wither.</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. Carter.</hi>
+                     </item>
+                     <item>
+                        <hi>Owen R<gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>e,</hi>
+                     </item>
+                     <item>
+                        <hi>Ga<g ref="char:EOLhyphen"/>briel Barber.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Caſewell.</hi>
+                     </item>
+                     <item>
+                        <hi>Gedeon de Lawne.</hi>
+                     </item>
+                     <item>
+                        <hi>Maurice Thompſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Fancis Allein.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Iohnſtoun.</hi>
+                     </item>
+                     <item>
+                        <hi>William Ieſſop.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Graunt.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Coyt<g ref="char:EOLhyphen"/>mor.</hi>
+                     </item>
+                     <item>
+                        <hi>William Felgate.</hi>
+                     </item>
+                     <item>
+                        <hi>George Turbervile.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Alcock.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Haughton.</hi>
+                     </item>
+                     <item>
+                        <hi>George Prynne.</hi>
+                     </item>
+                     <item>
+                        <hi>Anthony Pennyſton.</hi>
+                     </item>
+                     <item>
+                        <hi>Elias Roberts.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Welden.</hi>
+                     </item>
+                     <item>
+                        <hi>William Web.</hi>
+                     </item>
+                     <item>
+                        <hi>William Burges.</hi>
+                     </item>
+                     <item>
+                        <hi>Nath. Hawes.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Turner.</hi>
+                     </item>
+                     <item>
+                        <hi>George Ward.</hi>
+                     </item>
+                     <item>
+                        <hi>William Price.</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Wilkinſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Ioſeph Todd.</hi>
+                     </item>
+                     <item>
+                        <hi>Michael Evans.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Hunt.</hi>
+                     </item>
+                     <item>
+                        <hi>Abra. Sheeres.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Bardwell.</hi>
+                     </item>
+                     <item>
+                        <hi>Charles Calley.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <gap reason="missing" extent="2+ pages">
+               <desc>〈2… pages missing〉</desc>
+            </gap>
+            <pb facs="tcp:107022:3"/>
+            <p>which have <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> her breat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ved as their naturall, ſo the<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> birth <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f ever they were new borne.</p>
+            <p>We ought to acknowledge, with thankeſgiving the aboundant grace and mercy of God towards the Church of <hi>England;</hi> who hath made it no leſſe honourable then any other Reformed Church whatſoever, whether we con<g ref="char:EOLhyphen"/>ſider the firſt Reformers, being men of ſingular Piety, and bleſſed Martyrs of Chriſt; Or the purity of Doctrin there publikly profeſſed even to this preſent. Or the number of holy Martyrs who have adviſedly ſealed that Doctrine with their blood: Or the eminent lights in the Miniſtry ſucceſſively ſhining there in great number: Or the many and ſincere Profeſſors and Practiſers of Religion there, ever ſince the Reformation; Or laſtly, if we conſider the many great Deliverances which the Lord hath vouchſafed us, from the wicked plots and hoſtile attempts of the common adverſary, crowning all with much proſperity, and cauſing the fame and glory of it to be ſpread throughout the world. Theſe and the like have not beene ſeene in their ſeparate and Independent Churches. In the meane time, we deny not, but that beſides our many other grievous ſinnes, there have beene alſo many groſſe faults and intollerable in the Eccleſiaſticall Policy and Diſcipline, as it was abuſed by thoſe that were intruſted with it, and many foule effects have thence proceeded, which have (eſpecially of late yeares) corrupted Religion, eclipſed our glory, and laid it in the duſt, cauſed the Lord to hide his gracious and loving countenance from us: And was like to have proved the remidileſſe ruine of Church and Com<g ref="char:EOLhyphen"/>mon Wealth: Of which ſinnes though we all ſtand guilty before God, as having beene Authors or Procurers of them; yet it becomes not any, that is, or lately was a member of that Church, to upbraid her with theſe things in a deſpightfull manner: Such men according to that ſaying of the Apoſtle, <hi>Are jealous over us amiſſe, yea, they would</hi> (alienate our affections,<note place="margin">Gal. 4.1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and) <hi>ex<g ref="char:EOLhyphen"/>clude us</hi> (from the Church of <hi>England) that wee ſhould altogether love them.</hi> But theſe corruptions as they have beene for the moſt part forced upon the Church, by the uſurped power of thoſe which were intruſted, and pretended the greateſt care of the Church; ſo they have beene, and wee truſt will bee caſt out and Reformed by the preſent Parliament.</p>
+            <p>How I would not be miſtaken, as if I deſired to derogate any thing from the dignity of that moſt eminent calling of the Miniſtry; I have no ſuch mean<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng, neither doe I thinke a worthy Miniſter to be unworthy or unfit for <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ther the moſt eminent Offices or callings in Church or Common-wea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th, were it not that he hath a moſt eminent calling already ſufficient <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o take up <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he whole man, and unmeete to be yoaked with other callings, as the Apoſtle ſaith, <hi>who is ſufficient for theſe things;</hi>
+               <note place="margin">2 Cor. 2.16<g ref="char:punc">▪</g>
+               </note> And the Apoſtles doe re<g ref="char:EOLhyphen"/>ject ſuch employments with a kinde of contempt ſaying. <hi>It is not meet that we ſhould leave the word of God to ſerve Tables,</hi> and a litle after,<note place="margin">Act. 6.2<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>wee will give our ſelves continually to prayer, and to the Miniſtry of the Word,</hi> intimating that theſe things would hinder them from prayer and the Miniſtry of the Word; whereby it appeares, they would not be De<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cons, nor take upon them any other Office in or over the Church, but <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pend themſelves wholly
+<pb facs="tcp:107022:4"/> in the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and prayer; the like might be manifeſted by ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> other Scrip<g ref="char:EOLhyphen"/>tures. And the evill of it hath beene ſo generally obſerved in <hi>England,</hi> that (as I heard) <hi>Queene Elizabeth,</hi> when ſhe had conferred upon a Miniſters authority and power to rule, was wont to ſay, <hi>I have ſpoiled a good Preacher to day.</hi> And ſurely (if we obſerve it) the deſire of Superiority and Dominion in or over the Church, in Miniſters and Clergy-men, and the readineſſe of Princes and people to conferre it upon them; hath beene a principall, if not the principall cauſe in corrupting Religion from time to time, and of ſetting up the great Antichriſt, and many others, as might eaſily be ſhewed if it were not an argument too long for this place.</p>
+            <p>Thus farre (through the gracious aſſiſtance of God) I have expreſſed my mind in this matter, to the intent I might ſtop, ſo much as in me lyes, the ſet<g ref="char:EOLhyphen"/>ting up of a new Diſcipline and Government of our owne framing, ſeeing we are already freed of all thoſe things that have uſually beene burthenſome and offenſive to good Chriſtians in <hi>England;</hi> and that we expect dayly the further determination and decree of the Honourable <hi>Aſſembly of Parliament</hi> in theſe things. Or if I cannot prevaile ſo farre as to ſtop it, yet that wee might looke before we leap, and underſtand well what we doe before we doe it. O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if neither that may be obtained, yet hence it will appeare, that my ſelfe and ſome others deſerve no blame, much leſſe ſuch evill ſpeeches as are uſual<g ref="char:EOLhyphen"/>ly vented againſt us by ſome, becauſe we will not raſhly runne with them we know not whither. And laſtly, I deſire that this may be a publique teſti<g ref="char:EOLhyphen"/>mony of my judgement in theſe things. For to be preſent, and heare them dayly preſſed, and to be alwayes ſilent, is taken for a ſigne of conſent and ap<g ref="char:EOLhyphen"/>probation.</p>
+            <closer>
+               <dateline>
+                  <date>March 1. 1642.</date>
+               </dateline>
+               <signed>RICH. NORVVOOD</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>SInce this Advertiſement of mine came abroad (though but a moneth,) what horrible foreſpeakings, threatnings, imprecations, and cenſures have beene publikely denounced againſt me in ſeverall parts of the Countrey, <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> not need to repeat, being too well knowne. Neither will I anſwer t<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ac<g ref="char:EOLhyphen"/>cordingly leſt I alſo be like them; I will onely in the feare of God, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by the comfortable aſſiſtance of his holy Spirit apply that ſaying,<note place="margin">Num. 23.8.</note> 
+               <hi>How <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ld they curſe where God hath not curſed? Or how ſhould they deteſt wher<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lord hath not deteſted?</hi>
+               <note place="margin">2 Sam 16.12.</note> And thoſe words of <hi>David, It may be that the Lord will looke on mine affliction, and doe me good for his curſing this day.</hi> A deſperate thing it is for men to blaſpheme againſt ſome good light; and what is it, to acknowledge the good gifts and graces of God in thoſe which they ſo bitterly preach againſt; and to overwhelme them all with moſt foule and feigned ſuſ<g ref="char:EOLhyphen"/>ſpicions and aſperſions without cauſe? As when they ſay, Satan will not uſe prophane and wicked men, but he makes choiſe of thoſe that are of good and able parts, men of a religious life, of a blameleſſe converſation; theſe cloſe hy<g ref="char:EOLhyphen"/>pocrites
+<pb facs="tcp:107022:4"/> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e makes his inſtruments to oppoſe the Kingdome of Chriſt (that is their intended Diſcipline) &amp;c. with other like ſpeeches. I ſay it is very dan<g ref="char:EOLhyphen"/>gerous for men thus to give way to wrath and malice. The Scribes and Pha<g ref="char:EOLhyphen"/>riſees did ſee, and would no doubt have acknowledged the eminent gifts and graces that ſhined in our Saviour, if he would have applied them to the eſta<g ref="char:EOLhyphen"/>bliſhing of their Faction. But becauſe he would not doe ſo, they maliciouſly traduced him, and ſaid he had an uncleane ſpirit; but he reproves their de<g ref="char:EOLhyphen"/>ſperate wickedneſſe, ſhewing how nearely they did approach, or became guil<g ref="char:EOLhyphen"/>ty of the ſinne againſt the Holy Ghoſt. And let every man take heed how they doe cunningly faſten ſlanders, or otherwiſe ſhew deſpight unto the ſpirit of Grace, becauſe it would not be ſubordinate unto their ends. I could wiſh alſo they would conſider the words of <hi>Marſilius Patavinus,</hi> in his Booke entituled, <hi>Defender of the Peace.</hi> Where ſpeaking of thoſe that preſume to frame or preſſe <hi>Orders, Decrees,</hi> and other parts of Diſcipline, without licenſe of the true Law-giver or Prince, a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d endeavour to draw people to the obſer<g ref="char:EOLhyphen"/>vation of them by ſurreptitious words, as it were compelling them by threat<g ref="char:EOLhyphen"/>ning eternall damnation to ſuch as tranſgreſſe them, or denouncing execra<g ref="char:EOLhyphen"/>tio<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:punc">▪</g> reproachfull ſpeeches, excommunications, ſlanders, revilings, or other maledictions againſt them, or any of them, in word or writing; ſuch (ſaith he) are to ſuffer corporall puniſhment in a moſt high degree, as conſpirators and ſtirrers up of civill ſchiſme, or diviſion in a Common-wealth. For it is ſaith he, a moſt grievous kinde of treaſon, becauſe it is commited directly a<g ref="char:EOLhyphen"/>gainſt the Royall Majeſty of the Prince and his Soveraigne Authority; and tendeth to ſet up a plurality of ſupreame authorities or powers, and ſo of ne<g ref="char:EOLhyphen"/>c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſity to the diſſolution or overthrow of every civill Government.</p>
+            <p>They object alſo, that I am but a Lay-man, and therefore ſhould not med<g ref="char:EOLhyphen"/>dle with matters of Divinity, applying that Proverbe <hi>Ne ſutor ultra crepidam,</hi> and ſaying, that even the Sunne, Moone, and Starres, wherein he hath skill, ſhould teach him that leſſon, which alwayes move in their owne ſpheares, ex<g ref="char:EOLhyphen"/>cept they be wandring ſtarres, for whom the blackeneſſe of darkeneſſe is reſer<g ref="char:EOLhyphen"/>ved for ever, with many o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her bitter expreſſions. But this is an old plea of the Popiſh Clergy, to hold the people in ignorance and thraldome, and ſhould not be taken up by thoſe that would ſeeme to be more oppoſite to Pope<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y then Proteſtants are. That eminent and bleſſed Divine Doctor <hi>Sibbes</hi> was of ano<g ref="char:EOLhyphen"/>ther minde, who ſpeaking in commendation of Mr. <hi>Sherland</hi> (that was no Preacher) diſdaines not to ſay he had good skill in controverted points of Divinity, and that he was a good Divine. And ſurely the calling of a Chri<g ref="char:EOLhyphen"/>ſtian is of that importance, that he muſt, if need ſo require, omit whatſoever calling he have beſides, to make good that one moſt neceſſary, neither can hee juſtly be charged to move out of his ſpheare whenſoever he meddles with mat<g ref="char:EOLhyphen"/>ters of Chriſtianity and Religion, eſpecially ſuch points as he is preſſed to em<g ref="char:EOLhyphen"/>brace and ſubmit unto. The Apoſtle exhorts us all, that <hi>wee ſhould earneſtly contend for the faith which was once delivered unto the Saints.</hi> And I may fitly anſwer them in the words of that renouned Souldier of Chriſt Doctor <hi>Baſt<g ref="char:EOLhyphen"/>wicke,</hi> who being checked by the Biſhop of <hi>Canterbury</hi> in like ſort as I am by
+<pb facs="tcp:107022:5"/> theſe that he being a Phyſitian, a Lay-man, ſhould <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> points in Divinity, anſwers in Latine, to this purpoſe <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>I writ a Booke (ſaith he) not to finde my ſelfe employment, or to ſtirr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtrife, but of a Chriſtian mind and affection, according to my duty to Go<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and my Prince. The reproach of a Lay-man toucheth not me, for he which hath vowed himſelfe to Chriſt is one of Gods Clergy. The ancient Church doth not acknowledge that ſurname of a Lay-man, but reckons it among the <hi>Soloeciſmes</hi> of the Beaſt. Wee have given, promiſed, and vowed unto Chriſt in Baptiſme our name and faith; and have ſolemnely denounced battell againſt the fleſh, the world, the devill, hereſie, &amp;c. againſt which we muſt fight unleſſe wee put off the reverence and reſpect of our Vow. How unſea<g ref="char:EOLhyphen"/>ſonable is it then to aske by what authority we fight againſt theſe? (And a litle after) ſhall that be a fault in mee, which is a praiſe to Divines? They exerciſe Phyſick, Grazing, merchandize, they husband their grounds, plant, gather in their fruits, they all may doe <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> things, I envy not; yet I wonder wee ſhould be ſo ſtreightned, whilſt they have ſuch liberty. But if ſome blunt fellow ſhould aske a Divine, Hear'ſt thou good man, what haſt thou to doe with the Court, with privy Councell, with ſeates of Judgement? wha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> haſt thou to doe with renting lands, with planting vineyards, with breeding cat<g ref="char:EOLhyphen"/>tell, with money the provocation of al<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> evills? would he not checke ſuch a bold queſtion with ſome ſharp anſwer? yes, doubtleſſe he would. What then ſhould we doe when we are asked, What we have to doe with God, with Chriſt, with Religion, with the Truth? Wee will laugh to ſcorne ſuch envious queſtions, and performe with diligence what God calls us to. Wee will endeavour with all chearefulneſſe the defence of the truth, the conſerva<g ref="char:EOLhyphen"/>tion of Religion, the obſervation of our fidelity and allegiance to that Sove<g ref="char:EOLhyphen"/>raigne Authority which is over us; rendring an account of our endeavours to him, to whom we have vowed our ſelves &amp;c. He that deſires to ſee his de<g ref="char:EOLhyphen"/>fence more at large, may peruſe his <hi>Apology to the Engliſh Prelates.</hi>
+            </p>
+            <epigraph>
+               <q>
+                  <p>
+                     <note place="margin">Rom. 16.17.</note>Now I beſeech you brethren, marke them diligently which cauſe diviſion and offences, contrary to the Doctrine which yee have learned, and avoyd them</p>
+                  <p n="18">18. For they that are ſuch ſerve not the Lord Jeſus Chriſt, but <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ir owne bellies; and with faire ſpeech and flattering, deceive the hearts of the <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </p>
+               </q>
+            </epigraph>
+            <closer>
+               <dateline>
+                  <date>March 30. 1643.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:107022:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
